@@ -1,0 +1,20 @@
+{
+  "name": "belajar-vite",
+  "version": "1.0.0",
+  "description": "Belajar Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melisa Febriani",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "sass": "^1.69.6",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
